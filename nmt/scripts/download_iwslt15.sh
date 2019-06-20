@@ -10,4 +10,4 @@
 
 cd nmt_data
 wget https://drive.google.com/file/d/1CblLzxA-b4B79UiCrdX677Vjzw7jtwXD/view?usp=sharing
-unzip train2014.zip
+unzip nmt_data.zip
